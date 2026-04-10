@@ -33,6 +33,7 @@ Foi utilizada a Simulação de Monte Carlo para gerar 10.000 cenários possívei
 ## 📊 Visualização
 <img width="1101" height="571" alt="Image" src="https://github.com/user-attachments/assets/d991104e-b41e-4e31-a4e5-c936c2587dce" />
 
+
 🛠️ Tecnologias Utilizadas
 * Python
 * NumPy (Biblioteca Python)
